@@ -14,16 +14,33 @@
 <p align="center">
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td  colspan="3" align="center"><img alt="Rudrashis Dutta's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=rudrashisdutta&title=MultiLanguage,Repositories,Commits,Followers&theme=monokai&no-frame=true&margin-w=20" title="GitHub Trophies" width=100% align="center"/></td>
+<td  colspan="2" align="center"><img alt="Rudrashis Dutta's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=rudrashisdutta&title=MultiLanguage,Repositories,Commits,Followers&theme=monokai&no-frame=true&margin-w=10" title="GitHub Trophies" width=100% align="center"/></td>
 </tr>
 <tr>
 <td align="center"><img alt="Rudrashis Dutta's GitHub Streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrashisdutta&theme=monokai&langs_count=10&layout=compact" title="GitHub Languages" width=100% align="right"/></td>
-<td align="center"><img alt="Rudrashis Dutta's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrashisdutta&theme=monokai&hide_border=true" title="GitHub Streak" width=100% align="right"/></td>
 <td align="center"><img alt="Rudrashis Dutta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rudrashisdutta&hide=stars&show_icons=true&count_private=true&theme=monokai" title="GitHub Rank" width=100% align="left"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img alt="Rudrashis Dutta's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrashisdutta&theme=monokai&hide_border=true" title="GitHub Streak" width=100% align="right"/></td>  
 </tr>
 </table>
 </p>
 
+---
+
+<h1>Softwares and Tools :man_technologist:</h1>
+<div align="center">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Visual Studio Code-00b5f9?style=for-the-badge&logo=VisualStudioCode&logoColor=white&title=black">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Android Studio-78C257?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/IntelliJIDEA-002acf?style=for-the-badge&logo=IntelliJIdea&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Jupiter-f98500?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Adobe XD-e000f9?style=for-the-badge&logo=Adobexd&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Git-363636?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Github-2D2D2D?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Oracle Virtual Box-257B88?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/OBS Studio-a7a5a2?style=for-the-badge&logo=OBSstudio&logoColor=white">
+</div>
 
 
 
