@@ -1,13 +1,12 @@
-# Hello, I am Rudrashis Dutta (he/him) :bowtie::handshake:
----
-# Connect with me :grin:
-
-<a href="https://www.linkedin.com/in/rudrashisdutta/" alt="LinkedIn Connect" title="LinkedIn"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/rudrashisdutta" alt="GitHub Connect" title="GitHub"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-333?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://instagram.com/rudrashisdutta.x" alt="Instagram Connect" title="Instagram"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta.x-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/rudrashisdutta.x" alt="Facebook Connect" title="Facebook"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta.x-3B5998?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://twitter.com/rudrashisdutta" alt="Twitter Connect" title="Twitter"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
+# Hello, I am Rudrashis Dutta (he/him) :bowtie:
+</a>
 <a href="https://linktr.ee/rudrashisdutta" alt="Linktree" title="Linktree"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-6beb4f?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rudrashisdutta/" alt="LinkedIn Connect" title="LinkedIn"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><br>
+<a href="https://t.me/rudrashisdutta" alt="Telegram Connect" title="Telegram"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-149ccc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://github.com/rudrashisdutta" alt="GitHub Connect" title="GitHub"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-333?style=for-the-badge&logo=github&logoColor=white"></a><br>
+<a href="https://instagram.com/rudrashisdutta.x" alt="Instagram Connect" title="Instagram"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta.x-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/rudrashisdutta.x" alt="Facebook Connect" title="Facebook"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta.x-3B5998?style=for-the-badge&logo=facebook&logoColor=white"></a><br>
+<a href="https://twitter.com/rudrashisdutta" alt="Twitter Connect" title="Twitter"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:rudra2001official@gmail.com" alt="Gmail Connect" title="Gmail"><img src="https://custom-icon-badges.herokuapp.com/badge/rudra2001official-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
