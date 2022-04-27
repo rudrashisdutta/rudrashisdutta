@@ -1,4 +1,9 @@
 # Hello, I am Rudrashis Dutta (he/him) :bowtie:
+<p>I am a B. Tech. student at Kalinga Institute of Industrial technology.  I am a Front-end Developer (ReactJS), and a Native Android Application Developer (Android Studio). I have a strong interest in UI/UX designing because I aim to create an attractive and user-friendly Front-End. This has led me to learn Adobe XD and Figma. <br/>
+I have a quite strong base in the major programming languages like C++, Java, and Python. I am still in a learning phase in JavaScript, C, and R programming. I have some experience with Jupyter Notebook in both Python and R Programming, which I got to learn while working with some basic Machine Learning Projects. <br/><br/>
+<b>I am a fast learner. I love exploring knowledge, especially when it is related to things that interest me.</b></p>
+<hr/>
+<h1>Connect with me :grin:</h1>
 </a>
 <a href="https://linktr.ee/rudrashisdutta" alt="Linktree" title="Linktree"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-6beb4f?style=for-the-badge&logo=linktree&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rudrashisdutta/" alt="LinkedIn Connect" title="LinkedIn"><img src="https://custom-icon-badges.herokuapp.com/badge/rudrashisdutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><br>
